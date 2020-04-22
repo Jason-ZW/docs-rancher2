@@ -6,7 +6,7 @@ title: 升级回滚指南
 
 - [升级](/docs/upgrades/upgrades/_index)
 
-## 回滚不成功的升级
+## 回滚 失败的升级
 
 如果您的 Rancher Server 没有成功升级，您可以回滚到升级之前的版本：
 
